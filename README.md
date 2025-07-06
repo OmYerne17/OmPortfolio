@@ -8,7 +8,7 @@ Welcome to my portfolio! This website showcases my work, skills, and projects as
 
 ## 📸 Screenshots
 
-![Portfolio Preview](./public/WebPortfolioHomePage.png)
+![Portfolio Preview](./public/Background.png)
 
 ## ✨ Features
 
