@@ -63,7 +63,7 @@ function Header() {
 
         {/* Resume Button (Visible on all screen sizes) */}
         <a
-          href="https://drive.google.com/file/d/1VhtXIAseO14F4LNRFFISUeVjo-eYnbZr/view"
+          href="https://drive.google.com/file/d/1RuJRWsn5pKUXmKuPVVypqijYO4MQ9dFV/view?usp=sharing"
           className="hidden sm:inline-block bg-black text-white font-bold py-2 px-4 rounded hover:bg-orange-500 transition-transform transform hover:scale-105"
         >
           Download Resume
